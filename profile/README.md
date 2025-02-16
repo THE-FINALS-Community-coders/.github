@@ -12,6 +12,23 @@ but not only that! we will mention your active project in a list, and coming soo
 
 > [!IMPORTANT]
 > CURRENTLY THE TFCC IS IN HEAVY PROOF OF CONCEPT, LONG WAYS TILL SOMTHING HAPPENS
+----
+
+TABLE:
+
+- [The TFCC policy of community work, respect and honour](#TheTFCCpolicyofcommunityworkrespectandhonour)
+  - subitem1
+    - dualsubitem 1
+
+
+# The TFCC policy of community work, respect and honour 
+
+The TFCC policy of community work, respect and honour is our multi-use policy for depreciating or deprecated community projects\
+the use is simple, if the original owner agrees, we can archive and "revive" dead community projects by taking them as our own, and setting limits and goals.
+that's what this policy is for! it is made to set limitations and goals for community members to follow surrounding its revival. 
+
+[link to the policy]()
+
 
 <!--
 
