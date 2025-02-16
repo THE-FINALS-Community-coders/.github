@@ -1,6 +1,6 @@
-## Hey! Welcome to THE FINALS community coders group!\
+## Hello! Welcome to THE FINALS community coders group!
 ### (or The TFCC group for short!)
-
+----
 
 Hello! 👋 welcome to our README! Thanks for taking a look!
 The THE FINALS Community coders group is a community group dedicated to helping all sorts of community projects!\
