@@ -16,12 +16,16 @@ but not only that! we will mention your active project in a list, and coming soo
 
 TABLE:
 
-- [The TFCC policy of community work, respect and honour](#The_TFCC_policy_of_community_work_respect_and_honour)
-  - subitem1
-    - dualsubitem 1
+- [The TFCC policy of community work, respect and honour](#the-tfcc-policy-of-community-work-respect-and-honour)
 
 
-# The TFCC policy of community work, respect and honour 
+----
+
+
+
+
+
+## The TFCC policy of community work, respect and honour 
 
 The TFCC policy of community work, respect and honour is our multi-use policy for depreciating or deprecated community projects\
 the use is simple, if the original owner agrees, we can archive and "revive" dead community projects by taking them as our own, and setting limits and goals.
