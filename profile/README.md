@@ -14,7 +14,7 @@ The THE FINALS Community coders group is a community group dedicated to helping 
 
 REPO TABLE:
 
-- [The TFCC policy of community work, respect and honour](#the-tfcc-policy-of-community-work-respect-and-honour)
+- [The TFCC policy of community work, respect and honour](https://github.com/THE-FINALS-Community-coders/TFCC_policy_of_community-work-respect-and-honor)
 
 
 ----
@@ -38,19 +38,6 @@ If you have a project, and want to be put in this list, make a pull request and 
 
 
 ----
-
-
-
-
-
-## The TFCC policy of community work, respect and honour 
-
-The TFCC policy of community work, respect and honour is our multi-use policy for depreciating or deprecated community projects\
-the use is simple, if the original owner agrees, we can archive and "revive" dead community projects by taking them as our own, and setting limits and goals.
-that's what this policy is for! it is made to set limitations and goals for community members to follow surrounding its revival. 
-
-[link to the policy](https://github.com/THE-FINALS-Community-coders/TFCC_policy_of_community-work-respect-and-honor)
-
 
 <!--
 
