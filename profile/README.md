@@ -31,7 +31,7 @@ The TFCC policy of community work, respect and honour is our multi-use policy fo
 the use is simple, if the original owner agrees, we can archive and "revive" dead community projects by taking them as our own, and setting limits and goals.
 that's what this policy is for! it is made to set limitations and goals for community members to follow surrounding its revival. 
 
-[link to the policy]()
+[link to the policy](https://github.com/THE-FINALS-Community-coders/TFCC_policy_of_community-work-respect-and-honor)
 
 
 <!--
