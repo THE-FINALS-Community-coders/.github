@@ -22,7 +22,7 @@ REPO TABLE:
 
 
 PROJECT MENTION TABLE:\
-If you have a project, and want to be put in this list, make a pull request and also try and add this markdown badge! 
+If you have a project, and want to be put in this list, make a pull request and also try and add this markdown badge to your project's README! 
 ```HTML
 <object>
   <a href="https://github.com/THE-FINALS-Community-coders" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/THE_FINALS_community_coders-E?style=flat&logo=thefinals&labelColor=%23D31F3C&color=%23707070">
