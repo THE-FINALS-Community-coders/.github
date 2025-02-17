@@ -4,19 +4,37 @@
 
 Hello! 👋 welcome to our README! Thanks for taking a look!
 The THE FINALS Community coders group is a community group dedicated to helping all sorts of community projects!\
-(and also reviving dead ones by taking them as our own, and letting the loving community bring it back to life!)\
+(and also reviving dead ones by taking them as our own, and letting the loving community bring it back to life!)
 
 
-
-but not only that! we will mention your active project in a list, and coming soon, (if we can) make a markdown badge! 
 
 > [!IMPORTANT]
 > CURRENTLY THE TFCC IS IN HEAVY PROOF OF CONCEPT, LONG WAYS TILL SOMTHING HAPPENS
 ----
 
-TABLE:
+REPO TABLE:
 
 - [The TFCC policy of community work, respect and honour](#the-tfcc-policy-of-community-work-respect-and-honour)
+
+
+----
+
+
+
+PROJECT MENTION TABLE:\
+If you have a project, and want to be put in this list, make a pull request and also try and add this markdown badge! 
+```HTML
+<object>
+  <a href="https://github.com/THE-FINALS-Community-coders" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/THE_FINALS_community_coders-E?style=flat&logo=thefinals&labelColor=%23D31F3C&color=%23707070">
+</object>
+```
+<object>
+  <a href="https://github.com/THE-FINALS-Community-coders" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/THE_FINALS_community_coders-E?style=flat&logo=thefinals&labelColor=%23D31F3C&color=%23707070">
+</object>
+
+
+
+- item1 
 
 
 ----
