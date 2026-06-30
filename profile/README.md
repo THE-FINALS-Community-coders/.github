@@ -1,15 +1,13 @@
-## Hello! Welcome to THE FINALS community coders group!
-### (or The TFCC group for short!)
+## Hello! Welcome to THE FINALS Developers!
 ----
 
 Hello! 👋 welcome to our README! Thanks for taking a look!
-The THE FINALS Community coders group is a community group dedicated to helping all sorts of community projects!\
+The THE FINALS Developers is a community group, letting us helping all sorts of community projects!\
 (and also reviving dead ones by taking them as our own, and letting the loving community bring it back to life!)
 
-
-
 > [!IMPORTANT]
-> CURRENTLY THE TFCC IS IN HEAVY PROOF OF CONCEPT, LONG WAYS TILL SOMTHING HAPPENS
+> Hello! Currently, THE FINALS DEVELOPERS is not in use, and may not be used for some time! If anyone would wish to add a project, or if Embark would like to endorse this community, Please contact T342guy at contactt342guy@gmail.com
+
 ----
 
 REPO TABLE:
@@ -19,10 +17,8 @@ REPO TABLE:
 
 ----
 
-
-
 PROJECT MENTION TABLE:\
-If you have a project, and want to be put in this list, make a pull request and also try and add this markdown badge to your project's README! 
+If you have a project, and want to be put in this list, make a pull request and also add this markdown badge to your project's README! 
 ```HTML
 <object>
   <a href="https://github.com/THE-FINALS-Community-coders" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/THE_FINALS_community_coders-E?style=flat&logo=thefinals&labelColor=%23D31F3C&color=%23707070">
@@ -31,11 +27,6 @@ If you have a project, and want to be put in this list, make a pull request and 
 <object>
   <a href="https://github.com/THE-FINALS-Community-coders" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/THE_FINALS_community_coders-E?style=flat&logo=thefinals&labelColor=%23D31F3C&color=%23707070">
 </object>
-
-
-
-- [VAIIYA Terminal](https://github.com/T342guy/VAIIYA-terminal) by T342 
-
 
 ----
 
